@@ -1459,6 +1459,6 @@ a:hover {
 .widget-tags ul li a {
   color: #fff;
 }
-.error{
-  color: red;;
+#name-error ,#btnError ,#message-error,#mobile-error,#email-error{
+  color: red;
 }
